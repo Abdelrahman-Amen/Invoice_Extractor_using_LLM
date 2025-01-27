@@ -145,5 +145,5 @@ By integrating these components effectively, applications like the invoice extra
 
 Below is a demonstration of how the application works:
 
-![Demo of the Application]()
+![Demo of the Application](https://github.com/Abdelrahman-Amen/Invoice_Extractor_using_LLM/blob/main/Demo.gif)
 
